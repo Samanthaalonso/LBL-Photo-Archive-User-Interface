@@ -1,7 +1,6 @@
 # LBNL Photo Archive Reviewer
 
-Streamlit app to browse, review, and correct CLIP predictions on archival images.
-Reads xlsx files and images directly from Google Drive — no uploads needed.
+UI for users to browse, review, and correct OpenAI CLIP model predictions.
 
 ## Setup
 
